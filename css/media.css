@@ -1,0 +1,100 @@
+@media(max-width:575px){
+
+    .content h1 {
+        color: #eee7e8;
+        font-size: 50px;}
+        img{
+            width: 70%;
+        }
+    .banner{
+       min-height: 65vh;
+    }
+    .strict{
+        height: 350px;
+    }
+    .content span{
+        width: 70%;
+    }
+    .icon{
+        bottom: 7%;
+    }
+    .design h1{
+        font-size: 21pt;
+    }
+    .design p{
+        font-size: 12pt;
+        text-align: left;
+        margin: 0;
+    }
+    .pt-5, .py-5 {
+        padding-top: 1rem!important;
+        padding-bottom: 2rem!important;
+        
+    }
+    .feature-content p {        
+        font-size: 12pt;
+        text-align: left;
+    }
+    h2{
+        font-size: 21pt;
+        color: #2d3950;
+    }
+    p{
+        font-size: 12pt;
+        color: #999999;
+    }
+    .feature-content h4 {
+        margin: 20px 0;
+    }
+    .feature-content p {
+       margin: 0;}
+       
+       .contact_content h2{
+           font-size: 30pt;
+       }
+       .contact_content p{
+           margin: 0;
+           margin-bottom: 10px;
+           font-size: 13pt;
+       }
+       .ul_content{
+           margin-right: 25px;}
+
+       .ul_content ul li{
+           font-size: 12pt;
+           margin-right: 10px;
+       }                
+       
+       
+       form input{
+           width: 80%;
+           margin-left: 30px;
+           height: 40px;
+         
+        }
+        form textarea{
+            width: 80%;
+            margin-left: 30px;
+            height: 110px;
+            
+           
+        }
+        .showcase_icon i{
+            font-size: 10px;
+            padding: 5px;
+        }
+        .ul_content ul{
+           padding: 0%;
+        }
+        .icon-box {        
+            height: 80px;
+            width: 80px;    
+            font-size: 36px;        
+            line-height: 80px;
+            border-radius: 10px;
+            
+    }
+        
+
+
+    }
